@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Swapan kumar Das 
-- 👀 I’m interested in ... process, web, API automation using python programing.
-- 🌱 I’m currently learning ... dockerisation of automation execution
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... sdbit04@gmail.com
+  ISTQB certified software testing professional, Experience in python, Java, and pytest framework, web UI automation using selenium, Jenkins pipeline, Ansible playbook for managing configurations.
+- 📫 How to reach me ...
+- sdbit04@gmail.com
 
 <!---
 sdbit04/sdbit04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
