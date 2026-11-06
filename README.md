@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Swapan kumar Das 
-  ISTQB certified software testing professional, Experience in python, Java, and pytest framework, web UI automation using selenium, Jenkins pipeline, Ansible playbook for managing configurations.
+👋 Hi, I’m Swapan kumar Das 
+  I am currently working as network Automation engineer, working on device configuration, pre-check, FW-Policy validation automation.
+  Skills: Python, SQL, Ansible, Jenkins pipeline for managing configurations.
 - 📫 How to reach me ...
 - sdbit04@gmail.com
 
